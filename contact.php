@@ -1,5 +1,4 @@
 <?php
-// contact.php - Página de Contato
 include 'cms/includes/header.php';
 include 'cms/includes/navigation.php';
 ?>
